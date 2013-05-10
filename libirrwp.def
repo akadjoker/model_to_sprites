@@ -1,0 +1,27 @@
+EXPORTS
+    BeginScene @1
+    CreateEngine @2
+    DllMain@12 @3
+    DrawScene @4
+    DrawSceneToTexture @5
+    EndScene @6
+    FreeEngine @7
+    GetCurrentFrame @8
+    GetEndFrame @9
+    GetJointNode @10
+    GetStartFrame @11
+    LoadNode @12
+    NumJointNodes @13
+    ParentNode @14
+    PositionCamera @15
+    PositionNode @16
+    RotateCamera @17
+    RotateNode @18
+    ScaleNode @19
+    SetAnimationSpeed @20
+    SetCurrentFrame @21
+    SetFrameLoop @22
+    SetRenderTarget @23
+    TargetCamera @24
+    TextureNode @25
+    TurnNode @26
